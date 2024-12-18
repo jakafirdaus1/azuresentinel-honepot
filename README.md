@@ -17,7 +17,8 @@ I will observe live attacks (RDP Brute Force) from all around the world. I will 
 <img src="https://i.imgur.com/u32PDE0.png" height="80%" width="80%" />
 <h2>Azure World Map of RDP Brute Force Attack After 12 Hours <br/></h2>
 <img src="https://i.imgur.com/IvewDya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</br>
+(KQL Language Used in this project is attached.</br> Please refer to this repo "https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1" for the Powershell Script)
 <h2>Conclusion</h2>
 This home lab offers a valuable environment for learning and practicing essential skills in security monitoring and incident response using Azure Sentinel SIEM. By completing this project, i gained hands-on experience with a SIEM, which enhanced my security monitoring skills.
 <!--
