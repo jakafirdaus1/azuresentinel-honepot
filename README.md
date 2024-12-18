@@ -1,1 +1,1 @@
-# azuresentinel-honepot
+# azuresentinel-honeypot
